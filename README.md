@@ -4,7 +4,7 @@
 - I use this repository to save my codes so that I can see my codes in one place and they may help people (It doesn't have a meaning otherwise in my opinion)
 - The repository name is a reference to a nickname I've used when I was a kid 
   
- [ResearchGate to access my academic work so far /](https://www.researchgate.net/profile/Asli-Beyza-Ciftpinar)
+ [ResearchGate to access my academic work so far](https://www.researchgate.net/profile/Asli-Beyza-Ciftpinar)
  
  [My LinkedIn account](https://www.linkedin.com/in/asli-ciftpinar/)
 
