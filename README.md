@@ -8,6 +8,9 @@
  
  [My LinkedIn account](https://www.linkedin.com/in/asli-ciftpinar/)
 
+ [My CV](https://docs.google.com/document/d/1gRfK8tuTBsrP2Xh5I48dsc-ldoKElA-n/edit?usp=drive_link&ouid=114550443123021100237&rtpof=true&sd=true)
+ 
+ 
 <!--
 **qwertyuisback/qwertyuisback** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
