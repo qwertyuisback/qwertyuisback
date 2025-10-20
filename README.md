@@ -1,5 +1,5 @@
 ## Welcome 👋
-- Research and Teaching Assistant in Industrial Engineering at Uludag University, Turkey since Feb 2024
+- Research Assistant in Industrial Engineering at Uludag University, Turkey since Feb 2024
 - My main interest areas are generative AI, web scraping and machine learning
 - I use this repository to save my codes so that I can see my codes in one place and they may help people (It doesn't have a meaning otherwise in my opinion)
 - The repository name is a reference to a nickname I've used when I was a kid 
